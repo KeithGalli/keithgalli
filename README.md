@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Keith, and I'm an MIT trained computer scientist interested in all things Python & Data Science!
+
+- 🔭 I’m currently working on [HelloCreator](https://hellocreator.com), building an AI-powered companion for social media creators.
+- 🌱 I recently built a porgram to automatically download & transcribe your favorite podcasts, check it out [here](https://github.com/KeithGalli/Podcast-Downloader)
+- 👯 I’m looking to collaborate on YouTube videos!
+  - Send ideas to business@keithgalli.com
 
 
 <!--
